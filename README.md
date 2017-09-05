@@ -79,7 +79,7 @@ __R:__
 
 
 
-+ ` `
++ `Es demasiado diferente, tanto en las distancias filogenéticas como en el orden de las relaciones entre especies. Sin embargo, las especies que son más cercanas evolutivamente hablando, forman ciertos "grupos filogenéticos" que si se mantienen en ambos árboles. Sin embargo, el problema aparece cuando estos "grupos" se relacionan evolutivamente con otros y con especies que no están asociadas a un "grupo filogenético" (por ejemplo, pteropus alecto está en ambas filogenias realtivamente aislado). En general, lo que más cambia son las distancias evolutivas. `
 
 
 
@@ -91,7 +91,7 @@ __R:__
 
 
 
-+ ` `
++ `Tal como mencioné anteriormente, lo que más cambió fueron las distancias evolutivas y la relación entre "grupos monofiléticos" (que en el texto anterior los referí como "grupos filogenéticos"). Las relaciones por homología que nacen a partir de la hipótesis de alineamiento mantiene a ciertas especies en <clusters>, los cuales interactúan en distinta forma con otros grupos. Además, el cambio más notorio se ve en los árboles hechos con ClustalW, ya que las diferencias de realizar los árboles con y sin el parámetro de curación, es enorme. Los patrones formados tanto de las relaciones como de las distancias han variado enormemente (Imagen 2 y 3). `
 
 
 
@@ -132,3 +132,13 @@ __IMAGEN 3:__ Filogenia formada a partir de los parámetros ClustalW, "Remove po
 
 
 __IMAGEN 4:__ Filogenia formada a partir de los parámetros ClustalW, [alignemn sin curar] , TNT, y TreeDyn
+
+
+
+
+
+# NOTA IMPORTANTE
+
+
+Las fotos, a pesar de no tener el rut, claramente se ve mi usuario arriba en la spestañas. Además, el trabajo se lo entregué en el mismo lab, por lo que es imposible que haya obtenido las imágenes de otros trabajos.
+(ya había sacado todas las fotos cuando avisó :( )
