@@ -121,7 +121,7 @@ __IMAGEN 2:__ Filogenia formada a partir de los parámetros ProbCons, [Sin align
 
 
 
-__IMAGEN 3:__ Filogenia formada a partir de los parámetros 
+__IMAGEN 3:__ Filogenia formada a partir de los parámetros ClustalW, "Remove positions with gaps", TNT, y TreeDyn
 
 
 
@@ -131,4 +131,4 @@ __IMAGEN 3:__ Filogenia formada a partir de los parámetros
 
 
 
-__IMAGEN 4:__ Filogenia formada a partir de los parámetros 
+__IMAGEN 4:__ Filogenia formada a partir de los parámetros ClustalW, [alignemn sin curar] , TNT, y TreeDyn
