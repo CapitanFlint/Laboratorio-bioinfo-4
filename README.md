@@ -79,7 +79,7 @@ __R:__
 
 
 
-+ `Es demasiado diferente, tanto en las distancias filogenéticas como en el orden de las relaciones entre especies. Sin embargo, las especies que son más cercanas evolutivamente hablando, forman ciertos "grupos filogenéticos" que si se mantienen en ambos árboles. Sin embargo, el problema aparece cuando estos "grupos" se relacionan evolutivamente con otros y con especies que no están asociadas a un "grupo filogenético" (por ejemplo, pteropus alecto está en ambas filogenias realtivamente aislado). En general, lo que más cambia son las distancias evolutivas. `
++ `Es demasiado diferente, tanto en las distancias filogenéticas como en el orden de las relaciones entre especies. Sin embargo, las especies que son más cercanas evolutivamente hablando, forman ciertos "grupos filogenéticos"(por ejemplo las especies bos taurus y bos indicus) que si se mantienen en ambos árboles. Sin embargo, el problema aparece cuando estos "grupos" se relacionan evolutivamente con otros y con especies que no están asociadas a un "grupo filogenético" (por ejemplo, pteropus alecto está en ambas filogenias realtivamente aislado). En general, lo que más cambia son las distancias evolutivas. Hay que notar que entre los análisis hechos con probcons y con clustalw son muy distintos, ya que se ven grupos monofileticos que no están en ambos análisis (por ejemplo miniopterus natalensis con pteropus alecto en clustalW -IMAGEN 3- aparecen como especies muy relacionadas, a diferencia en probcons -IMAGEN 1- se ve que están bastante distantes entre sí. `
 
 
 
@@ -91,7 +91,7 @@ __R:__
 
 
 
-+ `Tal como mencioné anteriormente, lo que más cambió fueron las distancias evolutivas y la relación entre "grupos monofiléticos" (que en el texto anterior los referí como "grupos filogenéticos"). Las relaciones por homología que nacen a partir de la hipótesis de alineamiento mantiene a ciertas especies en <clusters>, los cuales interactúan en distinta forma con otros grupos. Además, el cambio más notorio se ve en los árboles hechos con ClustalW, ya que las diferencias de realizar los árboles con y sin el parámetro de curación, es enorme. Los patrones formados tanto de las relaciones como de las distancias han variado enormemente (Imagen 2 y 3). `
++ `Tal como mencioné anteriormente, lo que más cambió fueron las distancias evolutivas y la relación entre "grupos monofiléticos" (que en el texto anterior los referí como "grupos filogenéticos"). Las relaciones por homología que nacen a partir de la hipótesis de alineamiento mantiene a ciertas especies en <clusters>, los cuales interactúan en distinta forma con otros grupos. Además, el cambio más notorio se ve en los árboles hechos con ClustalW, ya que las diferencias de realizar los árboles con y sin el parámetro de curación, es enorme. Los patrones formados tanto de las relaciones como de las distancias(entre especies y no en la escala, ya que es en ambos 0,5) han variado enormemente (Imagen 2 y 3). Finalmente, podría concluir que el árbol construido en la Imagen 4 es el menos resolutivo, ya que las relaciones por homología no detallan muy bien las distancias entre especies y entre grupos de especies (grupos monofiléticos). `
 
 
 
