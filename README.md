@@ -116,3 +116,19 @@ __IMAGEN 2:__ Filogenia formada a partir de los parámetros ProbCons, [Sin align
 
 
 
+![foto3clustalw](https://github.com/CapitanFlint/Laboratorio-bioinfo-4/blob/master/foto3clustalw.png)
+
+
+
+
+__IMAGEN 3:__ Filogenia formada a partir de los parámetros 
+
+
+
+
+![foto4custalwsincurrar](https://github.com/CapitanFlint/Laboratorio-bioinfo-4/blob/master/foto4clustalwsincurar.png)
+
+
+
+
+__IMAGEN 4:__ Filogenia formada a partir de los parámetros 
